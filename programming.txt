@@ -1,0 +1,50 @@
+1
+Problem-solving methodology
+2
+Arrays
+Skills
+Two Pointers
+Sliding Window
+Binary Search
+Bit Manipulation
+3
+Linked Lists
+Skills
+Traversal
+CRUD operations
+Two Pointers
+Reordering
+Other manipulations
+4
+Stacks, Queues, Hashes, Heaps
+Skills
+Stacks
+Queues
+Hashes
+Heaps
+Priority Queues
+5
+Recursion
+Skills
+Recursion
+Backtracking
+Tree Traversals
+Binary Search Tree (BST)
+6
+Graph
+Skills
+Breadth-First Search (BFS)
+Depth-First Search (DFS)
+7
+Advanced Data Structures
+Skills
+Segment Tree
+Trie
+8
+Advanced Algorithms
+Skills
+Spanning Tree
+Shortest Path
+Topological Sort
+Greedy Algorithms
+Dynamic Programming
